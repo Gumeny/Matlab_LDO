@@ -14,6 +14,6 @@ plot(I2,eta2);
 plot(I2,eta3);
 xlabel('{\it I2} [A]');
 ylabel('{\it \eta} [-]');
-legend('{\it v}_1^{*}', '{\it v}_1');
+legend('U2_1', 'U2_2', 'U2_3');
 title('Ucinnost LDO topologie fixed');
 hold off;
